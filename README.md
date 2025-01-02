@@ -1,4 +1,4 @@
-# Sam - Facebook Post Share Automation Tool
+# lena - Facebook Post Share Automation Tool
 
 A Python-based tool for automating Facebook post sharing using Termux.
 
